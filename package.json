@@ -1,0 +1,23 @@
+{
+  "name": "newbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxiaoyun1/newbook.git"
+  },
+  "keywords": [],
+  "author": "zhangxiaoyun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangxiaoyun1/newbook/issues"
+  },
+  "homepage": "https://github.com/zhangxiaoyun1/newbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
