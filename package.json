@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/zhangxiaoyun1/newbook/issues"
   },
-  "homepage": "https://github.com/zhangxiaoyun1/newbook#readme"，
+  "homepage": "https://github.com/zhangxiaoyun1/newbook#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.2"
   }
